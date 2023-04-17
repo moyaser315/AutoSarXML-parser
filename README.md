@@ -1,6 +1,7 @@
 # AutoSarXML-parser 
 <br>
 exception handling assignment for CSE231 course
+<br>
 # Goals
 <br>
 > the goal is to parse the ARXML file and extract each container then group its components together in a class 
