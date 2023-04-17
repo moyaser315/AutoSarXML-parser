@@ -20,7 +20,7 @@ public class App {
         Scanner file = new Scanner(sar);
         File out;
         if (loc.endsWith(".arxml")) {
-            out = new File(".//out//" + sar.getName().replace(".arxml", "_mod.arxml"));
+            out = new File(".//" + sar.getName().replace(".arxml", "_mod.arxml"));
         } else {
             out = new File(sar.getName().replace(".ARXML", "_mod.ARXML"));
 
