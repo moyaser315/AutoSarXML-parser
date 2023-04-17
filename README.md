@@ -8,8 +8,8 @@ exception handling assignment for CSE231 course
 - download code 
 - run batch file **batch.bat**
 - it will run the 3 cases of 
-  -mismatch 
-  -empty file
-  -Valid file
+    -mismatch 
+    -empty file
+    -Valid file
 -you'll find output file in the same folder
 -you'll find tests files in ***test*** folder
