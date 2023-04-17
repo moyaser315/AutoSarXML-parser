@@ -7,9 +7,9 @@ exception handling assignment for CSE231 course
 # instructions
 * download code 
 * run batch file **batch.bat**
-* it will run the 3 cases of 
-    *mismatch 
-         *empty file
-         *Valid file
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+* Bullet list item 2
 *you'll find output file in the same folder
 *you'll find tests files in ***test*** folder
