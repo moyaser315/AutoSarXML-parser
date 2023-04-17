@@ -11,5 +11,5 @@ exception handling assignment for CSE231 course
     *mismatch 
     *empty file
     *Valid file
-*you'll find output file in the same folder
-*you'll find tests files in ***test*** folder
+-you'll find output file in the same folder
+-you'll find tests files in ***test*** folder
