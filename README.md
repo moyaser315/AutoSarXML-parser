@@ -5,11 +5,11 @@ exception handling assignment for CSE231 course
 >>after grouping them we sort them based on their short name
 >>then we output it in a new ARMXL file with the sorted components
 # instructions
-- download code 
-- run batch file **batch.bat**
-- it will run the 3 cases of 
-    -mismatch 
-    -empty file
-    -Valid file
--you'll find output file in the same folder
--you'll find tests files in ***test*** folder
+* download code 
+* run batch file **batch.bat**
+* it will run the 3 cases of 
+    *mismatch 
+    *empty file
+    *Valid file
+*you'll find output file in the same folder
+*you'll find tests files in ***test*** folder
